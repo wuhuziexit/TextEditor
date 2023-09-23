@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="选择文件">选择文件</string>
+    <string name="P站文本">P站文本</string>
+</resources>
